@@ -1,10 +1,10 @@
-
 # 🪑 AR Furniture Placement
 
 An Augmented Reality furniture placement application built with **Unity, AR Foundation, and XR Simulation**. The project allows users to detect surfaces, select furniture items, place them in the environment, and interact with placed objects.
 
 > **Note:** This project uses **XR Simulation** for development and testing without requiring a physical ARCore-supported Android device.
 
+Show case Video  : https://youtu.be/8lbAXo36NpQ?si=G5PUV1WWT_jagmrD
 ## 🎮 Features
 
 - 🔍 **Plane Detection** — Detects horizontal surfaces in the environment.
