@@ -1,3 +1,4 @@
+
 # 🪑 AR Furniture Placement
 
 An Augmented Reality furniture placement application built with **Unity, AR Foundation, and XR Simulation**. The project allows users to detect surfaces, select furniture items, place them in the environment, and interact with placed objects.
@@ -25,8 +26,11 @@ An Augmented Reality furniture placement application built with **Unity, AR Foun
 - **Unity Input System**
 - **Unity UI**
 - **3D Models & Prefabs**
-
-https://github.com/Anissayyad47/AR_Furniture_Placement_Project/blob/main/Screenshot%202026-10-05%20121500.png?raw=true
+- 
+<img width="1601" height="897" alt="Screenshot 2026-10-05 121500" src="https://github.com/user-attachments/assets/ce461bc0-bbe5-46af-870b-0bc9d7f21a64" />
+<img width="1600" height="891" alt="Screenshot 2026-10-05 121537" src="https://github.com/user-attachments/assets/5ae3f830-0855-4b6f-9639-43315bc27ff7" />
+<img width="1604" height="896" alt="Screenshot 2026-10-05 121602" src="https://github.com/user-attachments/assets/d061de5a-cc26-48c5-bb28-6bd68aad4c3e" />
+<img width="1604" height="895" alt="Screenshot 2026-10-05 121626" src="https://github.com/user-attachments/assets/eb7c716a-1854-470c-9c4c-f573bc4360db" />
 
 ## 🏗️ Project Structure
 
