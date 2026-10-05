@@ -26,6 +26,8 @@ An Augmented Reality furniture placement application built with **Unity, AR Foun
 - **Unity UI**
 - **3D Models & Prefabs**
 
+https://github.com/Anissayyad47/AR_Furniture_Placement_Project/blob/main/Screenshot%202026-10-05%20121500.png?raw=true
+
 ## 🏗️ Project Structure
 
 ```text
